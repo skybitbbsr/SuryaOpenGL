@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1517894193 source:c:\users\surya\documents\projects\suryagl\pt_ln_quad.cpp
+	<windows.h>
+	<GL/glut.h>
+
+1426329928 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329928 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1519707261 source:c:\users\surya\documents\projects\suryagl\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1519710032 source:c:\users\surya\documents\projects\suryagl\boundary_fill.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+
+1520147876 source:c:\users\surya\documents\projects\suryagl\boundary_fill1.cpp
+	<GL/glut.h>
+
+1520312204 source:c:\users\surya\documents\projects\suryagl\mid_elli_circ.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1522126044 source:c:\users\surya\documents\projects\suryagl\basic_translation.cpp
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+
